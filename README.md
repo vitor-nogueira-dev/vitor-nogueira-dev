@@ -2,7 +2,7 @@
 >👨🏼‍💻 Olá. Eu sou o Vitor Nogueira. Seja bem-vindo(a) 👋🏻. Atualmente sou estudante de desenvolvimento web na Trybe. A Trybe é uma escola de programação que tem um programa com mais de 1.500 horas de aulas online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 
-![Vitor Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-nogueira-dev&show_icons=true&theme=merko)
+![Vitor Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-nogueira96&show_icons=true&theme=merko)
 
 ## Tecnologias que uso no meu dia a dia:
 
