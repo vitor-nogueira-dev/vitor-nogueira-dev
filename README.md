@@ -1,6 +1,6 @@
-<img width=100% src="./banner.gif"/>
+<img width=100% src="./images/banner.gif"/>
 
-<img align="right" src="./minha-foto.jpeg" alt="My octocat" width="250px" height="315px" >
+<img align="right" src="./images/minha-foto.jpeg" alt="My octocat" width="250px" height="315px" >
 
 
 ```JavaScript
@@ -26,7 +26,7 @@ const sobreMim = {
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/netflix">🍿 Netflix</a></h2>
-      <a href="https://netflix-vn.netlify.app/"><img width="100%" src="./deskNetflix.png" alt="Project-preview" /></a>
+      <a href="https://netflix-vn.netlify.app/"><img width="100%" src="./images/deskNetflix.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> React (functional components), HTML, CSS, JavaScript, Material/UI, API Rest</em></p>
@@ -34,7 +34,7 @@ const sobreMim = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/calculator">🧮 Calculator</a></h2>
-      <a href="https://calculator-vn.netlify.app/"><img width="100%" src="./deskCalculator.png" alt="Project-preview" /></a>
+      <a href="https://calculator-vn.netlify.app/"><img width="100%" src="./images/deskCalculator.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> React (functional components), HTML, CSS, JavaScript</em></p>
@@ -44,7 +44,7 @@ const sobreMim = {
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/todolist-fullstack">📝 Full Stack Todo List</a></h2>
-      <a href="https://github.com/vitor-nogueira-dev/todolist-fullstack"><img width="100%" src="./deskTodoListFullStack.png" alt="Project-preview" /></a>
+      <a href="https://github.com/vitor-nogueira-dev/todolist-fullstack"><img width="100%" src="./images/deskTodoListFullStack.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> Node.js, Express.js, HTML, CSS, JavaScript, MySQL, Docker</em></p>
@@ -52,7 +52,7 @@ const sobreMim = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/trybe-tunes">🎧 Trybe Tunes</a></h2>
-      <a href="https://trybetunes-vn.netlify.app/"><img width="100%" src="./deskTunes.png" alt="Project-preview" /></a>
+      <a href="https://trybetunes-vn.netlify.app/"><img width="100%" src="./images/deskTunes.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> HTML, JavaScript, Styled Components, API Rest, React (class-based components)</em></p>
@@ -62,7 +62,7 @@ const sobreMim = {
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/gym-fitclub">🏋🏻 Fit Club</a></h2>
-      <a href="https://fitclub-vn.netlify.app/"><img width="100%" src="./deskFitClub.png" alt="Project-preview" /></a>
+      <a href="https://fitclub-vn.netlify.app/"><img width="100%" src="./images/deskFitClub.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> HTML, CSS, React JS, JavaScript, Responsividade, Lib Email Js, React scroll, React framer motion</em></p>
@@ -70,7 +70,7 @@ const sobreMim = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/weekaway">✈️ WeekAway</a></h2>
-      <a href="https://weekaway-vn.netlify.app/"><img width="100%" src="./deskWeek.png" alt="Project-preview" /></a>
+      <a href="https://weekaway-vn.netlify.app/"><img width="100%" src="./images/deskWeek.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> React (functional components), HTML, CSS, TailWind CSS, JavaScript, Lib React Icons</em></p>
@@ -80,7 +80,7 @@ const sobreMim = {
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/game-trivia">🎮 Trivia Game</a></h2>
-      <a href="https://game-trivia-grupo-28.netlify.app/"><img width="100%" src="./deskTrivia.png" alt="Project-preview" /></a>
+      <a href="https://game-trivia-grupo-28.netlify.app/"><img width="100%" src="./images/deskTrivia.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> HTML, REACT (class-based components), Redux, API Rest, Redux Thunk, localStorage, Styled Components</em></p>
@@ -88,7 +88,7 @@ const sobreMim = {
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/react-testing-library">🧪 Testes com RTL(React Testing Library)</a></h2>
-      <a href="https://github.com/vitor-nogueira-dev/react-testing-library"><img width="100%" src="./deskRTL.png" alt="Project-preview" /></a>
+      <a href="https://github.com/vitor-nogueira-dev/react-testing-library"><img width="100%" src="./images/deskRTL.png" alt="Project-preview" /></a>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> JavaScript, React, Lib RTL, Jest</em></p>
       <p>👨🏼‍💻 Projeto de testes no Front-end com a React Testing Library - RTL</p>
