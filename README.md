@@ -90,7 +90,7 @@ const sobreMim = {
       <h2 align="center"><a href="https://github.com/vitor-nogueira-dev/react-testing-library">🧪 Testes com RTL(React Testing Library)</a></h2>
       <a href="https://github.com/vitor-nogueira-dev/react-testing-library"><img width="100%" src="./images/deskRTL.png" alt="Project-preview" /></a>
       <br>
-      <p><em><strong>💡Tecnologias utilizadas:</strong> JavaScript, React, Lib RTL, Jest</em></p>
+      <p><em><strong>💡Tecnologias utilizadas:</strong> JavaScript, React, Lib RTL, Jest, Stryker Simulator</em></p>
       <p>👨🏼‍💻 Projeto de testes no Front-end com a React Testing Library - RTL</p>
     </td>
   </tr>
