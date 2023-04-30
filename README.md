@@ -1,25 +1,7 @@
 <img width=100% src="./images/banner.gif"/>
 
-<img align="right" src="./images/minha-foto.jpeg" alt="My octocat" width="250px" height="315px" >
+Olá e seja bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela tecnologia e inovação. Sinta-se à vontade para explorar e não hesite em entrar em contato comigo se tiver alguma dúvida ou ideia interessante para discutir. Vamos colaborar e criar coisas incríveis juntos!
 
-
-```JavaScript
-const sobreMim = {
-  nome: 'Vitor Nogueira',
-  idade: '26',
-  softSkills: [
-    'Comunicação',
-    'Adaptabilidade',
-    'Resolução de problemas'
-  ],
-  hardSkills: [
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'React'
-  ],
-};
-```
 <h1 align="center">Projetos</h1>
 
 <table>
@@ -111,9 +93,6 @@ const sobreMim = {
   <img src="https://github-profile-trophy.vercel.app/?username=vitor-nogueira-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/vitornogueira_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
   
  
 ### HardSkills:
