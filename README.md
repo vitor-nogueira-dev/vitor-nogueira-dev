@@ -1,4 +1,4 @@
-<img width=100% src="./images/banner.gif"/>
+<img width=100% src="./images/bannerSkills.gif"/>
 
 Olá e seja bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela tecnologia e inovação. Sinta-se à vontade para explorar e não hesite em entrar em contato comigo se tiver alguma dúvida ou ideia interessante para discutir. Vamos colaborar e criar coisas incríveis juntos!
 
