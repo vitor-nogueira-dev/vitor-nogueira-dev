@@ -3,6 +3,14 @@
 # Sobre mim 
 Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou desenvolvedor Full Stack com foco em Front-end. Sou apaixonado pelo mundo da tecnologia e por aprender coisas novas. Tenho como objetivo me tornar um desenvolvedor de software de alto nível, com foco em qualidade e performance. Sou proativo, gosto de trabalhar em equipe e estou sempre disposto a ajudar. Além disso, tenho facilidade para aprender novas tecnologias e estou sempre em busca de novos desafios.
 
+### Curiosidades sobre mim:
+- 📚 Adoro ler;
+- 🍃 Amante da natureza; 
+- 🎶 Apaixonado por músicas;
+- 🧑🏼‍🍳 Amo cozinhar;
+
+--- 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vitor-nogueira-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
