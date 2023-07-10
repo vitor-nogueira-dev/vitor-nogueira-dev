@@ -27,7 +27,6 @@ Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou desenvolvedo
 
 ### Frameworks de desenvolvimento:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 ### Gerencimaneto de estado:
@@ -51,6 +50,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou desenvolvedo
 
 ### Ambiente de desenvolvimento:
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 
 ### Bancos de dados:
