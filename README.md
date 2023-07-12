@@ -85,7 +85,7 @@ Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou desenvolvedo
 ### Estudando no momento:
 ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React JS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
