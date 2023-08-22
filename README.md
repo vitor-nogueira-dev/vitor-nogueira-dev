@@ -1,7 +1,7 @@
 <img width=100% src="./images/bg-readme.png"/>
 
 # Sobre mim 
-Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou desenvolvedor Full Stack com foco em Front-end. Sou apaixonado pelo mundo da tecnologia e por aprender coisas novas. Tenho como objetivo me tornar um desenvolvedor de software de alto nível, com foco em qualidade e performance. Sou proativo, gosto de trabalhar em equipe e estou sempre disposto a ajudar. Além disso, tenho facilidade para aprender novas tecnologias e estou sempre em busca de novos desafios.
+Olá, seja bem-vindo(a) ao meu GitHub! Me chamo Vitor Nogueira, sou um desenvolvedor apaixonado por frontend e backend, experiente em HTML, CSS e JavaScript para criar interfaces atraentes. Proficiente em React, Redux, Next.js e Typescript para código escalável. Habilidoso em Bootstrap, Tailwind CSS, Styled Components e Material UI para designs funcionais. Experiente em testes usando Jest, Cypress e React Testing Library. Backend com Express JS, Typescript, Sequelize e MySQL. Práticas sólidas de versionamento usando Git e GitHub. Abordagem proativa, colaborativa e focada em resultados. Sempre pronto para novos desafios e aprendizado contínuo.
 
 ### Curiosidades sobre mim:
 - 📚 Adoro ler;
