@@ -46,7 +46,7 @@ Olá, seja bem-vindo ao meu GitHub! Meu nome é Vitor Nogueira, sou desenvolvedo
 ---
 
 
-### ⭐️ Projetos para a Comunidade: (pt)
+### ⭐️ Projetos para a Comunidade:
 Tenho a honra de apresentar dois dos meus projetos focados na comunidade de desenvolvedores:
 #### 📝 Code Mark
 - Uma ferramenta intuitiva para criar README. Basta arrastar, soltar e exportar no formato `.md` para ter um README incrível para o seu projeto.
