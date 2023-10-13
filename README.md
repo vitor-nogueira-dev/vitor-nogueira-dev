@@ -1,7 +1,10 @@
 <img width=100% src="./images/bg-readme.png"/>
 
-# About me:
-Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passionate about frontend and backend, experienced in HTML, CSS and JavaScript to create attractive interfaces. Proficient in React, Redux, Next.js and Typescript for scalable code. Skilled in Bootstrap, Tailwind CSS, Styled Components and Material UI for functional designs. Experienced in testing using Jest, Cypress and React Testing Library. Backend with Express JS, Typescript, Sequelize and MySQL. Solid versioning practices using Git and GitHub. Proactive, collaborative and results-oriented approach. Always ready for new challenges and continuous learning.
+# About me: (en)
+<details> 
+<summary> Show details </summary>
+Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passionate about frontend and backend, experienced in HTML, CSS and JavaScript to create attractive interfaces. Proficient in React, Redux, Next.js and Typescript for scalable code. Skilled in Bootstrap, Tailwind CSS, Styled Components and Material UI for functional designs. Experienced in testing using Jest, Cypress and React Testing Library. Backend with Express JS, Typescript, Sequelize, MySQL, MongoDB and Prisma. Solid versioning practices using Git and GitHub. Proactive, collaborative and results-oriented approach. Always ready for new challenges and continuous learning.
+
 
 ### Trivia about me:
 - 📚 I love reading;
@@ -9,11 +12,55 @@ Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passiona
 - 🎶 In love with music;
 - 🧑🏼‍🍳 I love cooking;
 
---- 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitor-nogueira-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+### ⭐️ Projects for the Community:
+I am honored to present two of my projects focused on the developer community:
+#### 📝 Code Mark
+- An intuitive tool for creating README. Just drag, drop and export in .md format to have an incredible README for your project.
+- Acesse [Code Mark](https://code-mark.vercel.app/)
+
+---
+#### 🌎 Rtk Translate
+A library to facilitate translation in React projects. It comes with several notable features:
+- 💼 **Ease of Use:** Integrate into your React project in minutes.
+- 🌍 **Flexible:** Supports as many languages as you need.
+- ⚡ **Lightweight:** Does not overload the size of your bundle.
+- 🔑 **Customizable:** Integrate with your own translation keys and values, without relying on external APIs.
+- ℹ️ **Learn more:** [Rtk Translate no npm](https://www.npmjs.com/package/rtk-translate?activeTab=readme)
+
+</details>
+
+--- 
+# Sobre mim: (pt)
+<details>
+
+<summary> Mostrar detalhes </summary>
+Olá, seja bem-vindo ao meu GitHub! Meu nome é Vitor Nogueira, sou desenvolvedor apaixonado por frontend e backend, experiente em HTML, CSS e JavaScript para criar interfaces atraentes. Proficiente em React, Redux, Next.js e Typescript para código escalável. Habilidoso em Bootstrap, Tailwind CSS, Styled Components e Material UI para designs funcionais. Experiente em testes usando Jest, Cypress e React Testing Library. Backend com Express JS, Typescript, Sequelize, MySQL, MongoDB e Prisma. Práticas sólidas de versionamento usando Git e GitHub. Abordagem proativa, colaborativa e orientada a resultados. Sempre pronto para novos desafios e aprendizado contínuo.
+
+### Curiosidades sobre mim:
+- 📚 Amo ler;
+- 🍃 Amante da natureza;
+- 🎶 Apaixonado por música;
+- 🧑🏼‍🍳 Amo cozinhar;
+
+---
+
+
+### ⭐️ Projetos para a Comunidade: (pt)
+Tenho a honra de apresentar dois dos meus projetos focados na comunidade de desenvolvedores:
+#### 📝 Code Mark
+- Uma ferramenta intuitiva para criar README. Basta arrastar, soltar e exportar no formato `.md` para ter um README incrível para o seu projeto.
+- 🔗 **Acesse:** [Code Mark](https://code-mark.vercel.app/)
+
+#### 🌎 Rtk Translate
+Uma biblioteca para facilitar a tradução em projetos React. Possui várias funcionalidades notáveis:
+- 💼 **Facilidade de uso:** integre-se ao seu projeto React em minutos.
+- 🌍 **Flexível:** suporta quantos idiomas você precisar.
+- ⚡ **Leve:** não sobrecarrega o tamanho do seu pacote.
+- 🔑 **Personalizável:** integre-se às suas próprias chaves e valores de tradução, sem depender de APIs externas.
+- ℹ️ **Saiba mais:** [Rtk Translate no npm](https://www.npmjs.com/package/rtk-translate?activeTab=readme)
+</details>
+
 
 
 ## Knowledge:
@@ -29,6 +76,7 @@ Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passiona
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Next.JS](https://img.shields.io/badge/Next.js-404D59?style=for-the-badge)&nbsp;
 
 ### State management:
 ![Redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
@@ -55,6 +103,7 @@ Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passiona
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-00000F?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
@@ -92,6 +141,10 @@ Hello, welcome to my GitHub! My name is Vitor Nogueira, I'm a developer passiona
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitor-nogueira-dev}/count.svg" /></p> 
 <br></div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nogueira-dev&layout=compact)
+</div>
 
 ## My contacts:
 - 📧 [vleonel96@gmail.com](nome@exemplo.com)
