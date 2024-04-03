@@ -1,10 +1,11 @@
 <img width=100% src="./images/banner.png"/>
 
 # Sobre mim:
-Sou um desenvolvedor Front-end React entusiasmado, com uma paixão profunda por tecnologia e inovação. Minha curiosidade e determinação me levam a aprender e compartilhar conhecimento com facilidade. Desde meu primeiro contato com a programação, fui cativado pelo fascinante mundo da programação. Em apenas 10 meses de estudo, conquistei minha primeira posição como Desenvolvedor Front-end React. Durante minha formação na Trybe, fui Instrutor de Back-end Node Summer Job, auxiliando os estudantes com dúvidas sobre conteúdos, exercícios e projetos.
+Sou um desenvolvedor Front-end React entusiasmado, com uma paixão profunda por tecnologia e inovação. Minha curiosidade e determinação me levam a aprender e compartilhar conhecimento com facilidade. Desde meu primeiro contato com a programação, fui cativado pelo fascinante mundo da programação.
 
-Meu foco principal está no desenvolvimento de interfaces web dinâmicas e responsivas utilizando React, HTML, CSS e JavaScript. Tenho experiência com Redux para gerenciamento de estado, Next.js para renderização do lado do servidor e TypeScript para tipagem estática. Além disso, estou sempre em busca de aprender novas tecnologias e me aprimorar constantemente.
+Meu foco principal está no desenvolvimento de interfaces web dinâmicas e responsivas utilizando React, HTML, CSS e JavaScript. Tenho experiência sólida com metodologias ágeis, como Scrum, e utilizo o Git para controle de versão, garantindo a integridade e colaboração no código. Além disso, tenho expertise em Redux para gerenciamento de estado, Next.js para renderização do lado do servidor e TypeScript para tipagem estática. Estou sempre em busca de aprender novas tecnologias e me aprimorar constantemente para oferecer soluções cada vez mais eficientes e inovadoras.
 
+Minha abordagem proativa, colaborativa e orientada a resultados me destaca como profissional. Gosto de pensar de maneira criativa e me esforço para sempre superar as expectativas. Sou motivado por desafios e estou sempre em busca de aprendizado contínuo.
 
 ### Principais Tecnologias e Habilidades:
 - React
