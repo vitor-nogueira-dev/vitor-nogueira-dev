@@ -65,6 +65,12 @@ Uma biblioteca avançada para gerenciamento otimizado de localStorage em projeto
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nogueira-dev&layout=compact)
 </div>
 
+<div align="center">
+<span ><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-nogueira-dev&theme=dark&" alt="vitor-nogueira-dev" /></span>
+</div>
+
+<br></br>
+
 ## Entre em contato:
 - 📧 [vleonel96@gmail.com](nome@exemplo.com)
 - 🌐 Portfolio: [vitornogueira.com](https://portfolio-vn.vercel.app/)
