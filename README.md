@@ -1,25 +1,31 @@
 <img width=100% src="./images/banner.png"/>
 
-### Sobre mim:
+### Sobre Mim
 
-Sou um desenvolvedor Full Stack com foco em React e Node.js, apaixonado por tecnologia, inovação e inteligência artificial. Desde meu primeiro contato com a programação, fui cativado pelo fascinante mundo da tecnologia e sempre busco aprender e compartilhar conhecimento.
-
-Meu foco principal está no desenvolvimento de interfaces web dinâmicas e responsivas utilizando React, HTML, CSS e JavaScript. Tenho experiência sólida com metodologias ágeis, como Scrum, e utilizo Git para controle de versão, garantindo a integridade e colaboração no código. Além disso, tenho expertise em Redux para gerenciamento de estado, Next.js para renderização do lado do servidor, e TypeScript para tipagem estática.
-
-Atualmente, lidero um projeto de inteligência artificial no GRUPO NFA, onde utilizo o ChatGPT para desenvolver soluções inovadoras para atendimento omnichannel. Minha abordagem proativa e colaborativa me permite entregar resultados de alta qualidade, sempre buscando superar expectativas e promover melhorias contínuas.
+Sou um desenvolvedor Full Stack especializado na stack MERN (MongoDB, Express.js, React, Node.js) com experiência em tecnologias de Inteligência Artificial. Atualmente, como CEO e Tech Lead na Agência Nogueira, lidero a equipe na construção de sistemas que integram eficientemente a stack MERN com soluções de IA, garantindo alta performance e uma experiência de usuário superior.
 
 ---
 
-### Principais Tecnologias e Habilidades:
-- **React**
-- **Node.js, Express.js**
-- **HTML, CSS, JavaScript**
-- **Redux, Next.js, TypeScript**
-- **Tailwind CSS, Styled Components**
-- **Git e controle de versão**
-- **Design responsivo e acessibilidade web**
-- **ChatGPT**
+### Formação Acadêmica
 
+Atualmente estudo Engenharia de Software na Descomplica Faculdade Digital, onde combino conhecimento acadêmico com as necessidades práticas do mercado tecnológico.
+
+---
+
+### Experiência
+
+Tenho experiência prática com Large Language Models (LLMs), LangChain, CrewaI, Pinecone, LangFlow e n8n, aplicando essas tecnologias em projetos de IA para resolver desafios complexos. No GRUPO NFA, utilizo Inteligência Artificial para aprimorar o atendimento omnichannel, implementando ferramentas como ChatGPT e técnicas de recuperação de informação (RAG) para criar soluções personalizadas e eficientes. Além disso, tenho uma sólida experiência na stack MERN (MongoDB, Express.js, React, Node.js), que aplico na criação de aplicações web escaláveis e robustas.
+
+---
+
+### Habilidades
+
+- **Desenvolvimento Full Stack**: MERN (MongoDB, Express.js, React, Node.js)
+- **Inteligência Artificial**: API OpenAI - GPT, LLMs, LangChain, CrewaI, Pinecone, LangFlow
+- **Automação de Processos**: n8n
+- **Vetorização de Dados e Recuperação de Informação**
+- **Soluções Omnichannel e Automação**
+- **Desenvolvimento Ágil e Foco em Resultados**
 ---
 
 ### Projetos para a Comunidade:
