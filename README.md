@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-Sou um desenvolvedor Full Stack especializado na stack MERN (MongoDB, Express.js, React, Node.js) com experiência em tecnologias de Inteligência Artificial. Atualmente, como CEO e Tech Lead na Agência Nogueira, lidero a equipe na construção de sistemas que integram eficientemente a stack MERN com soluções de IA, garantindo alta performance e uma experiência de usuário superior.
+Sou um desenvolvedor Full Stack especializado na stack MERN (MongoDB, Express.js, React, Node.js) com experiência em tecnologias de Inteligência Artificial. Atualmente, como Desenvolvedor Full Stack na Agência Nogueira, lidero a equipe na construção de sistemas que integram eficientemente a stack MERN com soluções de IA, garantindo alta performance e uma experiência de usuário superior.
 
 ---
 
