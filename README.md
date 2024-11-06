@@ -79,6 +79,6 @@ Uma biblioteca avançada para gerenciamento otimizado de localStorage em projeto
 
 ## Entre em contato:
 - 📧 [vleonel96@gmail.com](nome@exemplo.com)
-- 🌐 Portfolio: [vitornogueira.com](https://portfolio-vn.vercel.app/)
+- 🌐 Portfolio: [vitornogueira.com](https://vitornogueira-portfolio.vercel.app/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
